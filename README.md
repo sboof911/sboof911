@@ -1,5 +1,5 @@
 [![amaach's 42 stats](https://badge.mediaplus.ma/greenbinary/amaach)](https://github.com/oakoudad/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sboof911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sboof911&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sboof911/sboof911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
